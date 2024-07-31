@@ -1,1 +1,1 @@
-# Analyzing-User-Behavior-Sequences-on-Websites-with-Markov-Chains
+# Analyzing-User-Behavioral-Sequences-on-Websites-with-Markov-Chains
